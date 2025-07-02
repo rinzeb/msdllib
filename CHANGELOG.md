@@ -1,5 +1,13 @@
 # @orbat-mapper/msdllib
 
+## 0.18.0
+
+### Minor Changes
+
+- 8b19523: Add `MilitaryScenario.setUnitForceRelation(.)` method
+- 8b19523: Add `Unit.setForceRelation()` method
+- 6b1d617: Make `ForceSide.allegianceHandle` writable
+
 ## 0.17.0 2025-06-27
 
 ### Added
